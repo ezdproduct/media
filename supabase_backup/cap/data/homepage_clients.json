@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2,
+        "name": "CÔNG TY TNHH DKO ARCHITECTURE VIỆT NAM",
+        "subtitle": "Thiết kế Kiến trúc và Nội thất",
+        "description": "Theo yêu cầu từ công ty DKO về việc nâng cao khả năng giao tiếp Tiếng Anh cho đội ngũ chuyên viên phòng thiết kế, CAP đã xây dựng chương trình đào tạo 'English for Interior Design & Architecture'...",
+        "image_url": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "logo_text": "DKO",
+        "display_order": 2,
+        "created_at": "2025-12-27 20:09:22.649061+00"
+    },
+    {
+        "id": 3,
+        "name": "TẬP ĐOÀN XÂY DỰNG HÒA BÌNH",
+        "subtitle": "Xây dựng dân dụng & Công nghiệp",
+        "description": "Chương trình đào tạo tiếng Anh chuyên biệt cho kỹ sư công trường, tập trung vào từ vựng an toàn lao động và kỹ thuật thi công...",
+        "image_url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "logo_text": "HBC",
+        "display_order": 3,
+        "created_at": "2025-12-27 20:09:22.649061+00"
+    },
+    {
+        "id": 4,
+        "name": "COTECCONS GROUP",
+        "subtitle": "Tổng thầu thiết kế và thi công",
+        "description": "Khóa học giao tiếp nâng cao dành cho cấp quản lý, mục tiêu đàm phán và làm việc với các chủ đầu tư nước ngoài...",
+        "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "logo_text": "CTC",
+        "display_order": 4,
+        "created_at": "2025-12-27 20:09:22.649061+00"
+    },
+    {
+        "id": 5,
+        "name": "RICONS CONSTRUCTION",
+        "subtitle": "Hệ sinh thái đầu tư xây dựng",
+        "description": "Đào tạo tiếng Anh doanh nghiệp với lộ trình riêng biệt, giúp nhân viên tự tin trao đổi email và báo cáo tiến độ...",
+        "image_url": "https://images.unsplash.com/photo-1590644365607-1c5a38fcbc2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "logo_text": "RICONS",
+        "display_order": 5,
+        "created_at": "2025-12-27 20:09:22.649061+00"
+    },
+    {
+        "id": 1,
+        "name": "Công Ty TNHH BOHO",
+        "subtitle": "Thiết kế, sản xuất và thi công hoàn thiện Nội thất",
+        "description": "Theo yêu cầu từ ban lãnh đạo Công ty về việc nâng cao kỹ năng giao tiếp trong công việc đặc biệt là mảng tiếng Anh chuyên ngành hoàn thiện nội thất. Như sự tin tưởng đã chọn CAP làm đối tác đồng hành",
+        "image_url": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "logo_text": "LOGO",
+        "display_order": 1,
+        "created_at": "2025-12-27 20:09:22.649061+00"
+    }
+]

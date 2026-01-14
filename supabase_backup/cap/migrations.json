@@ -1,0 +1,106 @@
+[
+    {
+        "version": "20251218002659",
+        "name": "create_profiles_and_sync_trigger"
+    },
+    {
+        "version": "20251218084357",
+        "name": "create_site_settings"
+    },
+    {
+        "version": "20251220114520",
+        "name": "create_courses_extension_table"
+    },
+    {
+        "version": "20251220120333",
+        "name": "add_curriculum_and_stats_columns"
+    },
+    {
+        "version": "20251220120848",
+        "name": "consolidate_course_to_single_table"
+    },
+    {
+        "version": "20251220121947",
+        "name": "add_benefits_requirements_to_course_details"
+    },
+    {
+        "version": "20251227160939",
+        "name": "create_homepage_tables_v1"
+    },
+    {
+        "version": "20251227161029",
+        "name": "rename_homepage_tables_to_main"
+    },
+    {
+        "version": "20251227161120",
+        "name": "rename_tables_to_main_hp_pattern"
+    },
+    {
+        "version": "20251227161209",
+        "name": "create_main_hp_hero_table"
+    },
+    {
+        "version": "20251227161711",
+        "name": "create_main_hp_footer_items_table"
+    },
+    {
+        "version": "20251227162110",
+        "name": "create_main_hp_footer_table"
+    },
+    {
+        "version": "20251227182425",
+        "name": "create_services_table"
+    },
+    {
+        "version": "20251227200904",
+        "name": "create_homepage_clients_table"
+    },
+    {
+        "version": "20251227200922",
+        "name": "seed_homepage_clients"
+    },
+    {
+        "version": "20251227201302",
+        "name": "create_homepage_footer_table"
+    },
+    {
+        "version": "20251227201310",
+        "name": "seed_homepage_footer"
+    },
+    {
+        "version": "20251227201403",
+        "name": "create_homepage_insights_table"
+    },
+    {
+        "version": "20251227201411",
+        "name": "seed_homepage_insights"
+    },
+    {
+        "version": "20251227201535",
+        "name": "create_page_sections_table"
+    },
+    {
+        "version": "20251227201629",
+        "name": "seed_page_sections"
+    },
+    {
+        "version": "20251227202311",
+        "name": "add_public_read_policies"
+    },
+    {
+        "version": "20251227202859",
+        "name": "add_footer_address"
+    },
+    {
+        "version": "20251227202952",
+        "name": "add_clients_rsl_policy"
+    },
+    {
+        "version": "20260108141308",
+        "name": "rename_tables_to_ld_prefix"
+    },
+    {
+        "version": "20260108141452",
+        "name": "create_team_vision_resources_tables"
+    }
+]

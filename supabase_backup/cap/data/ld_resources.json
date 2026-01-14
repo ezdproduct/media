@@ -1,0 +1,50 @@
+[
+    {
+        "id": 5,
+        "type": "article",
+        "title": "Thu Hút Khách Hàng Với Mẫu Thiết Kế Nội Thất Siêu Thị Đẹp",
+        "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800&q=80",
+        "read_time": "6 min read",
+        "link": "#",
+        "is_active": true,
+        "display_order": 1,
+        "created_at": "2026-01-11 10:06:32.602795+00",
+        "updated_at": "2026-01-11 10:06:32.602795+00"
+    },
+    {
+        "id": 6,
+        "type": "article",
+        "title": "Những Lưu Ý Khi Thiết Kế Nội Thất Siêu Thị",
+        "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&q=80",
+        "read_time": "7 min read",
+        "link": "#",
+        "is_active": true,
+        "display_order": 2,
+        "created_at": "2026-01-11 10:06:32.602795+00",
+        "updated_at": "2026-01-11 10:06:32.602795+00"
+    },
+    {
+        "id": 7,
+        "type": "article",
+        "title": "Thiết Kế Quầy Bar Đẹp Và Hiện Đại",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80",
+        "read_time": "7 min read",
+        "link": "#",
+        "is_active": true,
+        "display_order": 3,
+        "created_at": "2026-01-11 10:06:32.602795+00",
+        "updated_at": "2026-01-11 10:06:32.602795+00"
+    },
+    {
+        "id": 8,
+        "type": "article",
+        "title": "Chọn Mua Lò Nướng Thịt Cho Nhà Hàng",
+        "image": "https://images.unsplash.com/photo-1544025162-d76690b67f11?w=800&q=80",
+        "read_time": "4 min read",
+        "link": "#",
+        "is_active": true,
+        "display_order": 4,
+        "created_at": "2026-01-11 10:06:32.602795+00",
+        "updated_at": "2026-01-11 10:06:32.602795+00"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": 31,
+        "section": "wants",
+        "text": "Giao tiếp tự tin bằng tiếng Anh trong công việc",
+        "icon_name": "ArrowDownCircle",
+        "bg_color": "bg-[#edf6ff]",
+        "is_highlighted": false,
+        "display_order": 1,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 32,
+        "section": "wants",
+        "text": "Nghe hiểu và thảo luận bằng tiếng Anh trong cuộc họp",
+        "icon_name": "Package",
+        "bg_color": "bg-[#c6e1ff]",
+        "is_highlighted": false,
+        "display_order": 2,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 33,
+        "section": "wants",
+        "text": "Soạn thảo Email, báo cáo, văn bản bằng tiếng Anh hiệu quả",
+        "icon_name": "ArrowDownCircle",
+        "bg_color": "bg-[#9ecaff]",
+        "is_highlighted": false,
+        "display_order": 3,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 34,
+        "section": "wants",
+        "text": "Trình bày năng lực bằng tiếng Anh trong công việc, phỏng vấn",
+        "icon_name": "Loader",
+        "bg_color": "bg-[#5b85aa]",
+        "is_highlighted": false,
+        "display_order": 4,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 35,
+        "section": "difficulties",
+        "text": "Không thể nghe, hiểu và trao đổi tiếng Anh trong các tình huống cuộc họp, phối hợp công trường",
+        "icon_name": "Globe",
+        "bg_color": null,
+        "is_highlighted": false,
+        "display_order": 1,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 36,
+        "section": "difficulties",
+        "text": "Lúng túng khi giao tiếp tiếng Anh với đồng nghiệp và đối tác nước ngoài vì vốn từ và kỹ năng hạn chế ...",
+        "icon_name": "Frown",
+        "bg_color": null,
+        "is_highlighted": false,
+        "display_order": 2,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 37,
+        "section": "difficulties",
+        "text": "Mặc dù có vốn từ vựng tiếng Anh chuyên ngành nhưng vẫn gặp khó khăn về nghe hiểu và giao tiếp",
+        "icon_name": "Mic",
+        "bg_color": null,
+        "is_highlighted": false,
+        "display_order": 3,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 38,
+        "section": "difficulties",
+        "text": "Lệ thuộc vào các công cụ hỗ trợ và mất nhiều thời gian khi soạn thảo Email và văn bản tiếng Anh",
+        "icon_name": "CheckCircle",
+        "bg_color": null,
+        "is_highlighted": false,
+        "display_order": 4,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 39,
+        "section": "difficulties",
+        "text": "Bỏ lỡ cơ hội thăng tiến trong sự nghiệp vì không đáp ứng được yêu cầu về ngoại ngữ",
+        "icon_name": "ArrowLeft",
+        "bg_color": null,
+        "is_highlighted": false,
+        "display_order": 5,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    },
+    {
+        "id": 40,
+        "section": "difficulties",
+        "text": "Có thể giao tiếp tiếng Anh cơ bản, nhưng vẫn cần cải thiện kỹ năng thuyết trình thương thảo",
+        "icon_name": "RefreshCw",
+        "bg_color": null,
+        "is_highlighted": false,
+        "display_order": 6,
+        "created_at": "2026-01-11 10:06:18.649333+00"
+    }
+]

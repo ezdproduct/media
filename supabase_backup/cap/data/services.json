@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Tư vấn thiết kế kiến trúc, nội thất, kết cấu, MEPF...",
+        "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 1,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    },
+    {
+        "id": 2,
+        "title": "Quản lý dự án; Quản lý vận hành",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 2,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    },
+    {
+        "id": 3,
+        "title": "Nhà cung cấp; Sales và Marketing BĐS",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 3,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    },
+    {
+        "id": 4,
+        "title": "Tư vấn khối lượng; Đấu thầu và hợp đồng",
+        "image": "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 4,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    },
+    {
+        "id": 5,
+        "title": "Thi công và giám sát công trình",
+        "image": "https://images.unsplash.com/photo-1503387762-592dee58c460?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 5,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    },
+    {
+        "id": 6,
+        "title": "Tư vấn môi trường & Phát triển bền vững",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 6,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    },
+    {
+        "id": 7,
+        "title": "Số hóa công trình (BIM/VDC)",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "href": "#",
+        "display_order": 7,
+        "created_at": "2025-12-27 18:24:25.648851+00"
+    }
+]

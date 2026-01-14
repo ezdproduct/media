@@ -1,0 +1,20 @@
+[
+    {
+        "id": "e5ed7a5f-9584-49c2-901a-033ed31ebd6f",
+        "email": "admin@gmail.com",
+        "full_name": null,
+        "avatar_url": null,
+        "role": "admin",
+        "created_at": "2025-12-31 15:14:22.149935+00",
+        "updated_at": "2025-12-31 15:14:22.149935+00"
+    },
+    {
+        "id": "ad367a26-600c-4043-b30b-ead4c4c3039f",
+        "email": "lamgialinh.working@gmail.com",
+        "full_name": null,
+        "avatar_url": null,
+        "role": "admin",
+        "created_at": "2026-01-01 08:20:33.719397+00",
+        "updated_at": "2026-01-01 08:20:33.719397+00"
+    }
+]

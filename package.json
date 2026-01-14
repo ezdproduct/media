@@ -1,0 +1,24 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "Repository lưu trữ hình ảnh sử dụng **jsDelivr CDN** để tải nhanh trên UI.",
+  "main": "cdn-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezdproduct/media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ezdproduct/media/issues"
+  },
+  "homepage": "https://github.com/ezdproduct/media#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.90.1"
+  }
+}

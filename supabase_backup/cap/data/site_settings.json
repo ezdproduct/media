@@ -1,0 +1,20 @@
+[
+    {
+        "key": "tutor_api_config",
+        "value": {
+            "url": "https://course.learnwithcap.com/wp-json/tutor/v1/lessons",
+            "token": "",
+            "auth_type": "Bearer"
+        },
+        "updated_at": "2025-12-18 08:43:57.489015+00"
+    },
+    {
+        "key": "solutions_section",
+        "value": {
+            "title": "Giải pháp ",
+            "image_url": "https://course.learnwithcap.com/wp-content/uploads/2025/12/hatu-gen-1766381539732-3.png",
+            "description": "Chúng tôi cung cấp lộ trình học tập được cá nhân hóa, giúp bạn làm chủ tiếng Anh và tự tin trong môi trường làm việc quốc tế."
+        },
+        "updated_at": "2025-12-18 10:34:44.868263+00"
+    }
+]

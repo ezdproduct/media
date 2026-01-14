@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "description": "Nền tảng học tiếng Anh trực tuyến hàng đầu dành cho người đi làm.",
+        "facebook_url": "https://facebook.com",
+        "youtube_url": "https://youtube.com",
+        "instagram_url": "https://instagram.com",
+        "twitter_url": null,
+        "newsletter_title": "LIÊN HỆ TƯ VẤN",
+        "newsletter_description": "Đăng ký để nhận tư vấn khóa học phù hợp và ưu đãi mới nhất từ CAP.",
+        "contact_email": "info@learnwithcap.com",
+        "contact_phone": "0328859540",
+        "copyright_text": "CAP English Training. All rights reserved.",
+        "links": [
+            {
+                "items": [
+                    {
+                        "title": "Về Chúng Tôi",
+                        "link_url": "/about"
+                    },
+                    {
+                        "title": "Liên Hệ",
+                        "link_url": "/contact"
+                    },
+                    {
+                        "title": "Điều Khoản Riêng Tư",
+                        "link_url": "/privacy"
+                    }
+                ],
+                "section_id": "HỮU ÍCH"
+            },
+            {
+                "items": [
+                    {
+                        "title": "Khóa học",
+                        "link_url": "/shop"
+                    },
+                    {
+                        "title": "Giải pháp",
+                        "link_url": "/#solutions"
+                    }
+                ],
+                "section_id": "LIÊN KẾT"
+            }
+        ],
+        "created_at": "2025-12-27 20:13:10.249311+00",
+        "updated_at": "2025-12-27 20:13:10.249311+00",
+        "contact_address": "Tp. Hồ Chí Minh, Việt Nam",
+        "logo_url": "https://learnwithcap.com/wp-content/uploads/2025/06/cap-logo-1.png",
+        "newsletter_placeholder": "Vui lòng nhập email"
+    }
+]

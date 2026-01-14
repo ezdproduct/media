@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Aria Faith",
+        "ref_id": 3816,
+        "combined_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Aria_Faith_3816.png",
+        "model_product_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Aria_Faith_3816.png",
+        "model_only_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Aria_Faith_3816.png",
+        "updated_at": "2026-01-12 03:02:23.353161+00",
+        "is_synced": false,
+        "priority": 2,
+        "nationality": "Vietnam"
+    },
+    {
+        "name": "Aurora Sol",
+        "ref_id": 4437,
+        "combined_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Aurora_Sol_4437.png",
+        "model_product_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Aurora_Sol_4437.png",
+        "model_only_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Aurora_Sol_4437.png",
+        "updated_at": "2026-01-12 03:02:23.353161+00",
+        "is_synced": false,
+        "priority": 2,
+        "nationality": "Vietnam"
+    },
+    {
+        "name": "Ava Bloom",
+        "ref_id": 4406,
+        "combined_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Ava_Bloom_4406.png",
+        "model_product_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Ava_Bloom_4406.png",
+        "model_only_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Ava_Bloom_4406.png",
+        "updated_at": "2026-01-12 03:02:23.353161+00",
+        "is_synced": false,
+        "priority": 2,
+        "nationality": "Vietnam"
+    },
+    {
+        "name": "Bella Grace",
+        "ref_id": 4364,
+        "combined_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Bella_Grace_4364.png",
+        "model_product_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Bella_Grace_4364.png",
+        "model_only_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Bella_Grace_4364.png",
+        "updated_at": "2026-01-12 03:02:23.353161+00",
+        "is_synced": false,
+        "priority": 2,
+        "nationality": "Vietnam"
+    },
+    {
+        "name": "Kang Min-ji",
+        "ref_id": 4465,
+        "combined_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Mila_Rose_4465.png",
+        "model_product_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Mila_Rose_4465.png",
+        "model_only_url": "https://bxikxsrqphseupmgswdg.supabase.co/storage/v1/object/public/data-models/beauty/static/model-product/Mila_Rose_4465.png",
+        "updated_at": "2026-01-12 03:41:19.517085+00",
+        "is_synced": true,
+        "priority": 2,
+        "nationality": "Hàn Quốc"
+    }
+]

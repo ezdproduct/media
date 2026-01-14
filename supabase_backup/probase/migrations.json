@@ -1,0 +1,246 @@
+[
+    {
+        "version": "20251231121414",
+        "name": "create_users_table"
+    },
+    {
+        "version": "20251231121756",
+        "name": "add_app_id_to_users_and_seed_apps"
+    },
+    {
+        "version": "20251231122101",
+        "name": "create_agency_table"
+    },
+    {
+        "version": "20251231122249",
+        "name": "add_roles_and_sample_users"
+    },
+    {
+        "version": "20251231122356",
+        "name": "optimize_ids_for_storage_fixed"
+    },
+    {
+        "version": "20251231122502",
+        "name": "refresh_sample_data_v2"
+    },
+    {
+        "version": "20251231122601",
+        "name": "force_switch_to_8byte_id"
+    },
+    {
+        "version": "20251231122845",
+        "name": "final_refresh_with_request_id"
+    },
+    {
+        "version": "20251231122856",
+        "name": "convert_all_ids_to_int8"
+    },
+    {
+        "version": "20251231123640",
+        "name": "create_model_providers_table"
+    },
+    {
+        "version": "20251231123828",
+        "name": "agency_specific_pricing"
+    },
+    {
+        "version": "20251231124023",
+        "name": "agency_markup_system"
+    },
+    {
+        "version": "20251231124156",
+        "name": "remove_redundant_view"
+    },
+    {
+        "version": "20251231124317",
+        "name": "remove_owner_id_from_agencies"
+    },
+    {
+        "version": "20251231124653",
+        "name": "change_agency_id_to_text"
+    },
+    {
+        "version": "20251231124901",
+        "name": "create_app_users_isolation_table"
+    },
+    {
+        "version": "20251231124955",
+        "name": "dynamic_app_user_tables_system"
+    },
+    {
+        "version": "20251231125042",
+        "name": "rename_app_user_tables_to_slugs"
+    },
+    {
+        "version": "20251231125223",
+        "name": "lock_and_minimalize_users_registry"
+    },
+    {
+        "version": "20251231125255",
+        "name": "prefix_app_tables_with_data"
+    },
+    {
+        "version": "20251231125332",
+        "name": "standardize_app_user_data_structure"
+    },
+    {
+        "version": "20251231125435",
+        "name": "seed_standardized_app_user_data"
+    },
+    {
+        "version": "20251231125510",
+        "name": "integrate_credit_balance_to_apps"
+    },
+    {
+        "version": "20251231125536",
+        "name": "remove_custom_settings_column_everywhere"
+    },
+    {
+        "version": "20251231125618",
+        "name": "fix_and_convert_dates_finalizada"
+    },
+    {
+        "version": "20251231125720",
+        "name": "mass_seed_app_data"
+    },
+    {
+        "version": "20251231125757",
+        "name": "make_app_tables_fully_independent_v2"
+    },
+    {
+        "version": "20251231130003",
+        "name": "remove_all_auth_links_and_policies"
+    },
+    {
+        "version": "20251231130048",
+        "name": "enable_rls_via_email_standard"
+    },
+    {
+        "version": "20251231130121",
+        "name": "convert_to_auth_id_as_pk_v3_clean"
+    },
+    {
+        "version": "20251231130247",
+        "name": "add_cost_columns_to_models"
+    },
+    {
+        "version": "20251231130558",
+        "name": "rename_model_columns_for_clarity"
+    },
+    {
+        "version": "20251231130710",
+        "name": "remove_sell_base_from_models"
+    },
+    {
+        "version": "20251231130759",
+        "name": "recreate_base_price_column"
+    },
+    {
+        "version": "20251231130824",
+        "name": "reorder_model_providers_columns_v2"
+    },
+    {
+        "version": "20251231130904",
+        "name": "add_vnd_exchange_rates_to_models"
+    },
+    {
+        "version": "20251231131233",
+        "name": "add_tier_factors_v4_fixed"
+    },
+    {
+        "version": "20251231131356",
+        "name": "add_base_cost_to_models_v5"
+    },
+    {
+        "version": "20251231131526",
+        "name": "model_pricing_automation_trigger"
+    },
+    {
+        "version": "20251231131630",
+        "name": "enforce_readonly_sell_columns_trigger"
+    },
+    {
+        "version": "20251231131721",
+        "name": "remove_credit_ledger_systemhousekeeping"
+    },
+    {
+        "version": "20251231131957",
+        "name": "enhance_agency_accounting_system"
+    },
+    {
+        "version": "20251231132056",
+        "name": "api_usage_billing_system"
+    },
+    {
+        "version": "20251231132232",
+        "name": "auto_billing_via_usage_logs_trigger"
+    },
+    {
+        "version": "20251231132408",
+        "name": "remove_unused_agency_objects"
+    },
+    {
+        "version": "20251231151015",
+        "name": "create_profiles_table"
+    },
+    {
+        "version": "20251231151101",
+        "name": "create_global_users_table"
+    },
+    {
+        "version": "20251231151309",
+        "name": "re_create_profiles_and_add_samples"
+    },
+    {
+        "version": "20251231151528",
+        "name": "setup_global_admin_crud_rls"
+    },
+    {
+        "version": "20260101065540",
+        "name": "add_avatar_url_to_model_providers"
+    },
+    {
+        "version": "20260101074558",
+        "name": "create_raw_models_table"
+    },
+    {
+        "version": "20260103082306",
+        "name": "add_password_to_data_hatu"
+    },
+    {
+        "version": "20260103084727",
+        "name": "disable_rls_data_hatu"
+    },
+    {
+        "version": "20260111062908",
+        "name": "expand_data_models_columns"
+    },
+    {
+        "version": "20260111063048",
+        "name": "expand_content_column"
+    },
+    {
+        "version": "20260111082612",
+        "name": "create_data_models_clean_table"
+    },
+    {
+        "version": "20260111222646",
+        "name": "create_video_clone_table"
+    },
+    {
+        "version": "20260112030223",
+        "name": "add_updated_at_to_beauty_models"
+    },
+    {
+        "version": "20260112030345",
+        "name": "add_is_synced_to_beauty_models"
+    },
+    {
+        "version": "20260112033555",
+        "name": "add_priority_to_beauty_models"
+    },
+    {
+        "version": "20260112033748",
+        "name": "add_nationality_to_beauty_models"
+    }
+]

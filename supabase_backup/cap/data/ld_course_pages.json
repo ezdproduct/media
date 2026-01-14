@@ -1,0 +1,281 @@
+[
+    {
+        "slug": "online-1-1",
+        "title": "Online 1:1",
+        "badge": "PRIVATE CLASS",
+        "description": "Khóa học Tiếng Anh Giao Tiếp Chuyên Ngành Xây Dựng, Kiến Trúc và Nội Thất thiết kế riêng cho từng học viên. Học viên được chủ động về cả nội dung và thời gian tương tác trực tiếp với giảng viên. \\n\\nLộ trình riêng biệt giúp tối ưu hóa khả năng ứng dụng thực tế ngay trong công việc. Ngoài ra, bạn còn được hỗ trợ sửa các báo cáo chuyên sâu, xây dựng tư duy bằng tiếng Anh thông qua phương pháp \"mô phỏng tình huống\" chất lượng cao.",
+        "stats": {
+            "left": "3",
+            "right": "12",
+            "leftLabel": "Modules",
+            "rightLabel": "Lessons"
+        },
+        "hero_image": "https://images.unsplash.com/photo-1541888941259-7927394602db?auto=format&fit=crop&q=80",
+        "features": {
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80",
+            "items": [
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "PlayCircle",
+                    "title": "SỬ DỤNG HÌNH ẢNH, ÂM THANH, GAME / QUIZ"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "CheckCircle2",
+                    "title": "ÔN TẬP VÀ KIỂM TRA MỔI MODULE (MINI - FINAL TEST)"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "Layers",
+                    "title": "CÁC TỪ VỰNG ĐƯỢC LẶP LẠI Ở CÁC BÀI HỌC"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "MessageSquare",
+                    "title": "ROLE PLAY (ĐÓNG VAI TÌNH HUỐNG)"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "Presentation",
+                    "title": "THUYẾT TRÌNH CHỦ ĐỀ YÊU THÍCH (HỌC VIÊN VÀ BẠN BÈ TRONG LỚP)"
+                }
+            ],
+            "quote": "Opt for us and experience the highest standard of dedication and quality. Our specialized team is committed to excellence, ensuring your specific needs are met with exceptional results."
+        },
+        "structure": {
+            "items": [
+                {
+                    "id": "01",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 01",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                },
+                {
+                    "id": "02",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 02",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                },
+                {
+                    "id": "03",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 03",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                }
+            ],
+            "title": "Câu trúc khóa học"
+        },
+        "evaluation": {
+            "desc": "Opt for us and experience the highest standard of dedication and quality. Our specialized team is committed to excellence, ensuring your specific needs are met.",
+            "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80",
+            "title": "Phương pháp đánh giá",
+            "methods": [
+                "Đánh giá đầu vào",
+                "ĐÁNH GIÁ TRONG QUÁ TRÌNH HỌC"
+            ],
+            "highlight": "Khảo sát học viên và công ty nhằm tìm hiểu đối tượng học, nhu cầu của học viên và công ty đang công tác.",
+            "subHighlight": "Chương trình giúp đội ngũ nhân sự nâng cao kỹ năng đàm phán và thuyết trình dự án thực tế."
+        },
+        "cta_banner": null,
+        "created_at": "2026-01-11 10:14:05.916444+00",
+        "updated_at": "2026-01-11 10:14:05.916444+00"
+    },
+    {
+        "slug": "e-learning",
+        "title": "E-Learning",
+        "badge": "SELF-PACED",
+        "description": "Khóa học tiếng Anh giao tiếp chuyên ngành Xây dựng, Kiến trúc và Nội thất được thiết kế riêng cho cá nhân, nhằm nâng cao kỹ năng giao tiếp thông qua việc bổ sung từ vựng chuyên ngành và mẫu câu giao tiếp thông dụng trong tình huống công việc thực tế.",
+        "stats": {
+            "left": "3",
+            "right": "36",
+            "leftLabel": "Modules",
+            "rightLabel": "Bài học"
+        },
+        "hero_image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80",
+        "features": {
+            "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80",
+            "items": [
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "PlayCircle",
+                    "title": "SỬ DỤNG HÌNH ẢNH, ÂM THANH, GAME / QUIZ"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "CheckCircle2",
+                    "title": "ÔN TẬP VÀ KIỂM TRA MỔI MODULE (MINI - FINAL TEST)"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "Layers",
+                    "title": "CÁC TỪ VỰNG ĐƯỢC LẶP LẠI Ở CÁC BÀI HỌC"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "MessageSquare",
+                    "title": "ROLE PLAY (ĐÓNG VAI TÌNH HUỐNG)"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "Presentation",
+                    "title": "THUYẾT TRÌNH CHỦ ĐỀ YÊU THÍCH (HỌC VIÊN VÀ BẠN BÈ TRONG LỚP)"
+                }
+            ],
+            "quote": "Opt for us and experience the highest standard of dedication and quality. Our specialized team is committed to excellence, ensuring your specific needs are met with exceptional results."
+        },
+        "structure": {
+            "items": [
+                {
+                    "id": "01",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 01",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                },
+                {
+                    "id": "02",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 02",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                },
+                {
+                    "id": "03",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 03",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                }
+            ],
+            "title": "Câu trúc khóa học"
+        },
+        "evaluation": {
+            "desc": "Opt for us and experience the highest standard of dedication and quality. Our specialized team is committed to excellence, ensuring your specific needs are met.",
+            "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80",
+            "title": "Phương pháp đánh giá",
+            "methods": [
+                "Đánh giá đầu vào",
+                "ĐÁNH GIÁ TRONG QUÁ TRÌNH HỌC"
+            ],
+            "highlight": "Khảo sát học viên và công ty nhằm tìm hiểu đối tượng học, nhu cầu của học viên và công ty đang công tác.",
+            "subHighlight": "Chương trình giúp đội ngũ nhân sự nâng cao kỹ năng đàm phán và thuyết trình dự án thực tế."
+        },
+        "cta_banner": null,
+        "created_at": "2026-01-11 10:14:05.916444+00",
+        "updated_at": "2026-01-11 10:14:05.916444+00"
+    },
+    {
+        "slug": "in-house",
+        "title": "In-House",
+        "badge": "CORPORATE TRAINING",
+        "description": "Khóa học tiếng Anh giao tiếp chuyên ngành Xây dựng, Kiến trúc và Nội thất được thiết kế riêng cho cá nhân, nhằm nâng cao kỹ năng giao tiếp thông qua việc bổ sung từ vựng chuyên ngành và mẫu câu giao tiếp thông dụng trong tình huống công việc thực tế.",
+        "stats": {
+            "left": "3",
+            "right": "36",
+            "leftLabel": "Modules",
+            "rightLabel": "Bài học"
+        },
+        "hero_image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80",
+        "features": {
+            "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80",
+            "items": [
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "PlayCircle",
+                    "title": "SỬ DỤNG HÌNH ẢNH, ÂM THANH, GAME / QUIZ"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "CheckCircle2",
+                    "title": "ÔN TẬP VÀ KIỂM TRA MỔI MODULE (MINI - FINAL TEST)"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "Layers",
+                    "title": "CÁC TỪ VỰNG ĐƯỢC LẶP LẠI Ở CÁC BÀI HỌC"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "MessageSquare",
+                    "title": "ROLE PLAY (ĐÓNG VAI TÌNH HUỐNG)"
+                },
+                {
+                    "desc": "CAP offers customized courses to improve your English skill",
+                    "icon": "Presentation",
+                    "title": "THUYẾT TRÌNH CHỦ ĐỀ YÊU THÍCH (HỌC VIÊN VÀ BẠN BÈ TRONG LỚP)"
+                }
+            ],
+            "quote": "Opt for us and experience the highest standard of dedication and quality. Our specialized team is committed to excellence, ensuring your specific needs are met with exceptional results."
+        },
+        "structure": {
+            "items": [
+                {
+                    "id": "01",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 01",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                },
+                {
+                    "id": "02",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 02",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                },
+                {
+                    "id": "03",
+                    "tag": "Tiếng anh xây dựng chuyên sâu",
+                    "title": "Module 03",
+                    "features": [
+                        "Mẫu câu cơ bản",
+                        "Giao tiếp cơ bản",
+                        "Trao đổi quan hệ"
+                    ]
+                }
+            ],
+            "title": "Câu trúc khóa học"
+        },
+        "evaluation": {
+            "desc": "Opt for us and experience the highest standard of dedication and quality. Our specialized team is committed to excellence, ensuring your specific needs are met.",
+            "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80",
+            "title": "Phương pháp đánh giá",
+            "methods": [
+                "Đánh giá đầu vào",
+                "ĐÁNH GIÁ TRONG QUÁ TRÌNH HỌC"
+            ],
+            "highlight": "Khảo sát học viên và công ty nhằm tìm hiểu đối tượng học, nhu cầu của học viên và công ty đang công tác.",
+            "subHighlight": "Chương trình giúp đội ngũ nhân sự nâng cao kỹ năng đàm phán và thuyết trình dự án thực tế."
+        },
+        "cta_banner": null,
+        "created_at": "2026-01-11 10:14:05.916444+00",
+        "updated_at": "2026-01-11 10:14:05.916444+00"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "title": "Giao tiếp thực tế",
+        "description": "Thực hành giao tiếp tiếng Anh với mẫu câu, từ vựng sát thực tế công việc.",
+        "icon_name": "https://course.learnwithcap.com/wp-content/uploads/2026/01/executive-offic-1.png",
+        "sort_order": 0,
+        "created_at": "2025-12-16 09:24:25.679035+00"
+    },
+    {
+        "id": 1,
+        "title": "Tự học tiếng anh hiệu quả",
+        "description": "Hệ thống bài học đa dạng và linh hoạt giúp bạn chủ động ôn luyện mọi lúc, mọi nơi.",
+        "icon_name": "RefreshCw",
+        "sort_order": 1,
+        "created_at": "2025-12-16 09:24:25.679035+00"
+    },
+    {
+        "id": 3,
+        "title": "Kỹ năng toàn diện",
+        "description": "Phát triển toàn diện kỹ năng, ưu tiên nghe nói, soạn thảo email và thuyết trình.",
+        "icon_name": "Mic",
+        "sort_order": 2,
+        "created_at": "2025-12-16 09:24:25.679035+00"
+    },
+    {
+        "id": 5,
+        "title": "Lộ trình cá nhân",
+        "description": "Học theo lộ trình phù hợp, từ cơ bản đến nâng cao, được thiết kế riêng cho mục tiêu của bạn.",
+        "icon_name": "Target",
+        "sort_order": 3,
+        "created_at": "2025-12-16 09:24:25.679035+00"
+    }
+]
